@@ -28,8 +28,8 @@
 
 <img src="https://www.clipartmax.com/png/small/435-4356637_git-github-hub-icon-central-icon-hub-character-github-svg-icon.png"  height="70" alt="GIT logo"  />
   <img width="12"/> 
-
-<img src="https://www.clipartmax.com/png/small/19-193102_microsoft-net-microsoft-visual-studio-net.png" alt="Microsoft -height="70" alt="GIT logo"  />
+  
+<img src="https://www.clipartmax.com/png/small/19-193102_microsoft-net-microsoft-visual-studio-net.png" alt="Microsoft" height="70" alt="GIT logo"  />
  <img width="12"/> 
 
 
