@@ -1,9 +1,25 @@
-## Biografia 👋
----
+<h2 align="left">Sobre mim</h2>
+
+###
+
+<p align="left">✨ Biografia...<br>
+  
 * Tenho experiência nas área de Sistemas de Informação prestando suporte de TI aos usuários nas diferentes plataformas, como: sistemas, e-mails, impressoras, hardware, software e redes de computadores.
 * Conhecimentos em: redes de computadores, manutenção de computadores, servidores de redes, cabeamento estruturado, governança de TI, modelagem de processos BPMN (Business Process Modeling).
-* Conhecimentos em Programação Full Stack
+* Conhecimentos em Programação Full Stack 
 * Atuo na área educacional para o nível profissionalizante na modalidade Aprendizagem Industrial e Técnico na Escola SENAI.
+  
+ 📚 Atualmente estou aprimorando meus conhecimentos em HTML e CSS<br>
+ 
+ 🎯 Objetivos: Explorar conhecimentos em Banco de Dados, JavaSript, Inteligência Artificial e Metaverso<br>
+ 
+ 🎲 Curiosidades: em novas tecnologias e aprender a utilizá-las </p>
+
+###
+
+
+
+
 
 
 <!--
