@@ -17,15 +17,20 @@
 
 ###
 
-Programo em: <br>
+📚 Programo em: <br>
 [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 
-<img src="https://www.clipartmax.com/png/small/87-879804_exported-database-from-azure-sql-failed-to-be-imported-sql-azure.png" alt="Exported Database"
+<img src="https://www.clipartmax.com/png/small/87-879804_exported-database-from-azure-sql-failed-to-be-imported-sql-azure.png" height="70" alt="BD logo"  />
+  <img width="12"/>
 
 
+🛠️ Ferramentas de desenvolvimento:
+
+<img src="https://www.clipartmax.com/png/small/435-4356637_git-github-hub-icon-central-icon-hub-character-github-svg-icon.png"  height="70" alt="GIT logo"  />
+  <img width="12"/> 
+  
 
 
-🛠️ Ferramentas de desenvolvimento
 
 
 
