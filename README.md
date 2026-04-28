@@ -17,6 +17,10 @@
 
 ###
 
+Programo em:
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
+🛠️ Ferramentas de desenvolvimento
 
 
 
