@@ -18,7 +18,9 @@
 ###
 
 Programo em: <br>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+
+
 
 
 🛠️ Ferramentas de desenvolvimento
